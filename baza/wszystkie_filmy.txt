@@ -1,0 +1,22 @@
+1;Thor: Love and Thunder;Taika Waititi;Marvel;Akcja Sci-Fi;2022;53;25
+2;Joker;Todd Phillips;Warner Bros;Dramat Kryminal;2019;1;28
+3;Parasite;Joon-ho Bong;CJ entertainment;Dramat;2019;0;200
+4;Iron man;Jon Favreau;Marvel;Akcja;2008;1;50
+5;Shrek;Andrew Adamson;DreamWorks;Komedia;2001;15;40
+6;Harry Potter i Kamień Filozoficzny;Chris Columbus;Warner Bros;Akcja;2010;9;50;51
+7;Wiking;Robert Eggers;Warner Bros;Dramat;2001;0;10
+8;Avengers End game;Anthony Russo;Marvel;Akcja;2019;49;20
+9;Aquaman;James Wan;Warner Bros;Akcja;2018;19;20;1
+10;Shrek 2;Andrew Adamson;DreamWorks;Komedia;2004;100;25;0
+11;Shrek 3;Chris Miller;DreamWorks;Komedia;2007;50;30;0
+12;Shrek Forever;Mike Mitchell;DreamWorks;Komedia;2010;10;40;0
+13;Wladca Pierscieni Druzyna Pierscienia;Peter Jackson;New Line Cinema;Przygodowa;2002;7;40;0
+14;Wladca Pierscienia Dwie wieze;Peter Jackson;New Line Cinema;Przygodowa;2003;6;45;0
+15;Wladca Pierscieni Powrot Krola;Peter Jackson;New Line Cinema;Przygodowa;2004;35;30;0
+16;Igrzyska smierci;Gary Ross;Scholastic Press;Akcja;2009;50;20;0
+17;Igrzyska smierci W pierscieniu ognia;Francis Lawrence;Scholastic Press;Akcja;2013;35;30;0
+18;Igrzyska smierci Kosoglos czesc 1;Francis Lawrance;Scholastic Press;Akcja;2014;34;30;0
+19;Igrzyska smierci Kosoglos czesc 2;Francis Lawrence;Scholastic Press;Akcja;2015;30;35;0
+20;Titanic;James Cameron;Paramount Pictures;Dramat;1997;20;30
+21;Avatar;XYZ;Fox;Akcja;2009;14;20;21
+22;Epoka Lodowcowa;XYZ;Warner Bros;Komedia;2010;60;20;0
